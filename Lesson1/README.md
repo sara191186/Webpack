@@ -41,3 +41,4 @@ Next create `main.js` and `index.html` in the root folder
 To run the project, type `npm run build`
 
 What it does is, it runs the webpack using the config file and create `bundle.js` under the dist directory.
+xcvxvxv
